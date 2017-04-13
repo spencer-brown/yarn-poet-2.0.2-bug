@@ -1,0 +1,10 @@
+{
+  "name": "yarn-uglify-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Spencer Brown <me@spencer.sx>",
+  "license": "MIT",
+  "dependencies": {
+    "poet": "2.0.2"
+  }
+}
